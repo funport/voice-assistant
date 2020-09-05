@@ -1,0 +1,12 @@
+*{
+    background: lightslategrey;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+}
+button{
+    width: 50px;
+    background: white;
+    text-align: left;
+}
